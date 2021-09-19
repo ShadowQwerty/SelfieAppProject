@@ -1,0 +1,23 @@
+#start-btn
+{
+    width: 10%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+    background-color: grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}s
+#textbox
+{
+    width: 300px;
+}
+body{
+    background-color: chocolate;
+}
